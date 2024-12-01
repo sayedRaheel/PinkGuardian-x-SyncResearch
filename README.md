@@ -3,6 +3,7 @@
   <div>
     <img src="/images/PinkGuardian.png" alt="PinkGuardian" />
   </div>
+  
 ## 🎗 Overview
 Building upon our [previously published work](https://github.com/kanchanmaurya95/PinkGuardian.git) in IEEE, Pink Guardian 2.0 represents a significant advancement in breast cancer detection technology. This enhanced version introduces a more robust model trained on 400,000 mammogram images, making it one of the largest and most comprehensive breast cancer detection models available.
 
