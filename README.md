@@ -106,4 +106,4 @@ For research collaboration inquiries, please contact:
 [License information to be added]
 
 ---
-*Note*: This repository contains the enhanced version of Pink Guardian, developed in collaboration with Sync Healthcare. For the original version, please visit [the original Pink Guardian repository](https://github.com/kanchanmaurya95/PinkGuardian.git).
+*Note*: This repository contains the enhanced version of Pink Guardian, developed in collaboration with Sync AI Inc.. For the original version, please visit [the original Pink Guardian repository](https://github.com/kanchanmaurya95/PinkGuardian.git).
