@@ -17,10 +17,10 @@ Building upon our [previously published work](https://github.com/kanchanmaurya95
 ## 👥 Research Team
 - *Kanchan Maurya* - Lead Researcher (Continuing from previous work)
 - *Sayed Raheel Hussain* - Research Contributor
-- *Tushar Sinha* - Research Contributor
+- *Tushar Sinha* - Research & Design Contributor 
 - *Deepa Paikar* - Research App Contributor
 - *Saddam Hussain* - Research App Contributor
-- *Sync Healthcare* - Healthcare Integration Partner
+- *Sync AI Inc.* - Healthcare Integration Partner
 
 ## 🏥 Clinical Impact
 Pink Guardian 2.0 aims to revolutionize breast cancer screening by:
@@ -72,6 +72,18 @@ The foundation of this project was established in our IEEE-published paper: "Pin
 2. Model Architecture: Enhanced BC-Inception V3 with improvements
 3. Healthcare Integration: Partnership with Sync Healthcare
 4. User Interface: Completely redesigned for better usability
+
+
+## Next Steps:
+1. Care coordination
+2. 24x7 Chat Support
+3. Telehealth Services
+4. Community & Companion Platform 
+5. Enrollment in Federal & Sate Government Schemes
+6. Remote Health Monitoring
+   <div>
+    <img src="/images/Prrocessflow.png" alt="Our-Vision" />
+  </div>
 
 ## 📄 Citations
 If you use this work in your research, please cite:
