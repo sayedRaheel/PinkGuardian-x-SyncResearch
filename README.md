@@ -74,15 +74,16 @@ The foundation of this project was established in our IEEE-published paper: "Pin
 4. User Interface: Completely redesigned for better usability
 
 
-## Next Steps:
+## Next Steps: Ecosystem - Grand vision Image
 1. Care coordination
 2. 24x7 Chat Support
 3. Telehealth Services
 4. Community & Companion Platform 
 5. Enrollment in Federal & Sate Government Schemes
 6. Remote Health Monitoring
-   <div>
-    <img src="/images/Prrocessflow.png" alt="Our-Vision" />
+
+<div>
+    <img src="/images/Processflow.png" alt="Our-Vision" />
   </div>
 
 ## 📄 Citations
