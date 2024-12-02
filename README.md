@@ -75,17 +75,17 @@ The foundation of this project was established in our IEEE-published paper: "Pin
 
 
 ## Next Steps: Ecosystem - Grand vision Image
+
+<div>
+    <img src="/images/Processflow.png" alt="Our-Vision" />
+  </div>
+  
 1. Care coordination
 2. 24x7 Chat Support
 3. Telehealth Services
 4. Community & Companion Platform 
 5. Enrollment in Federal & Sate Government Schemes
 6. Remote Health Monitoring
-
-<div>
-    <img src="/images/Processflow.png" alt="Our-Vision" />
-  </div>
-
 ## 📄 Citations
 If you use this work in your research, please cite:
 
