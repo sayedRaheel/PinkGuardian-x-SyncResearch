@@ -53,7 +53,15 @@ Pink Guardian 2.0 aims to revolutionize breast cancer screening by:
 
 ## 📱 Application Screenshots
   <div>
-    <img src="/images/PinkGuardianApp.png" alt="PinkGuardianApp" />
+    <img src="/images/App3.png" alt="PinkGuardianApp" />
+  </div>
+
+  <div>
+    <img src="/images/App2.png" alt="PinkGuardianApp1" />
+  </div>
+
+  <div>
+    <img src="/images/App1.png" alt="PinkGuardianApp2" />
   </div>
 
 ## 🔗 Previous Work
