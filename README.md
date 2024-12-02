@@ -1,5 +1,5 @@
 
-# Pink Guardian 2.0: Advanced Breast Cancer Detection Platform
+# Pink Guardian 2.0: : Advanced Breast Cancer Detection, Care & Management Platform
   <div>
     <img src="/images/PinkGuardian.png" alt="PinkGuardian" />
   </div>
